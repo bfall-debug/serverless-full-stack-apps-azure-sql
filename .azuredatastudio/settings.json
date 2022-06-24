@@ -1,0 +1,14 @@
+{
+    "notebook.pinnedNotebooks": [
+        {
+            "notebookPath": "c:/Users/Invengeon/invengeonCode/AzureTutorials/serverless-full-stack-apps-azure-sql/database/notebooks/01-set-up-database.ipynb",
+            "bookPath": "c:/Users/Invengeon/invengeonCode/AzureTutorials/serverless-full-stack-apps-azure-sql/database/notebooks",
+            "title": "01-set-up-database"
+        },
+        {
+            "notebookPath": "c:/Users/Invengeon/invengeonCode/AzureTutorials/serverless-full-stack-apps-azure-sql/database/notebooks/02-json-geospatial-sql-db.ipynb",
+            "bookPath": "c:/Users/Invengeon/invengeonCode/AzureTutorials/serverless-full-stack-apps-azure-sql/database/notebooks",
+            "title": "02-json-geospatial-sql-db"
+        }
+    ]
+}
